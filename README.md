@@ -1,4 +1,4 @@
-Дмитрий [Telegram](https://t.me/@dimooooooooooooooooooooooooooonn)
+Дмитрий https://t.me/@dimooooooooooooooooooooooooooonn
 
 <!--
 **sobachevskiy/sobachevskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
