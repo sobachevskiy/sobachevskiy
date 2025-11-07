@@ -2,7 +2,7 @@
 
 💻 Python-разработчик
 📫 Связаться со мной: [Telegram](https://t.me/@dimooooooooooooooooooooooooooonn) | [Email](dsobachevsky@gmail.com)
-[TG](https://t.me/@dimooooooooooooooooooooooooooonn)
+[TG](https://t.me/dimooooooooooooooooooooooooooonn)
 
 ---
 
