@@ -2,6 +2,7 @@
 
 💻 Python-разработчик
 📫 Связаться со мной: [Telegram](https://t.me/@dimooooooooooooooooooooooooooonn) | [Email](dsobachevsky@gmail.com)
+TG([URL-адрес вашего профиля/канала Telegram](https://t.me/@dimooooooooooooooooooooooooooonn))
 
 ---
 
