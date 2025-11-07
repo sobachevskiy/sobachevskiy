@@ -1,4 +1,4 @@
-## Hi there 👋
+Дмитрий [Telegram](https://t.me/@dimooooooooooooooooooooooooooonn)
 
 <!--
 **sobachevskiy/sobachevskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +21,10 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+
+
+### 📊 Статистика
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexdev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexdev&layout=compact&theme=tokyonight)
+
