@@ -18,7 +18,7 @@ Python-разработчик
   <tr>
     <td align="left"><b>•</b></td>
     <td align="left">CSS</td>
-  </tr><br>
+  </tr>
 
 ---
 
